@@ -80,13 +80,4 @@ Final project applying deep learning fundamentals to a real dataset.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Janahmedtawfik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jana's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janahmedtawfik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center"><i>Always building something — check back often.</i></p>
