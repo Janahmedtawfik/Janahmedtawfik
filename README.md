@@ -12,10 +12,10 @@
 - 🎓 CS/AI student — currently deep in full-stack development and machine learning
 - 🤖 Building AI agents (RAG, LangGraph, multi-agent systems) and computer vision projects (YOLO, deepfake detection, deep learning)
 - 🌱 Sharpening full-stack + ML skills by shipping complete, working products rather than isolated notebooks
-- 💞️ Open to collaborating on AI agent tooling, computer vision, and full-stack AI products
+- 🔎 Open to remote AI/LLM Engineer and Machine Learning / Computer Vision internships
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I used to be a character designer — now I design systems instead of characters
-- 📫 Reach me at **janahmedtawfik06@gmail.com**
+- 📫 Reach me at **janahmedtawfik06@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/jana-tawfik)
 
 ---
 
