@@ -1,37 +1,83 @@
-# Hi, I'm Jana 👋
+<h1 align="center">Hi, I'm Jana 👋</h1>
+<p align="center">CS/AI student building agentic AI systems, full-stack apps, and computer vision projects — end to end, from model to product.</p>
 
-**AI Engineering student (CS/AI, final year) building LLM agents, RAG systems and computer vision projects, end to end.**
-
-🔎 **Open to remote AI / LLM Engineer and Machine Learning / Computer Vision internships.**
-📫 janahmedtawfik06@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/jana-tawfik)
-
----
-
-## 🚀 Featured Projects
-
-### 🕵️ [Deepfake Detector](https://github.com/Janahmedtawfik/deepfake-detector)
-Web app that tells whether a face photo or short video is real or AI-generated.
-EfficientNet-B0 + YuNet face detection + FastAPI. Averages **84.5%** across 8 deepfake techniques on held-out data, with an honest write-up of what failed (catastrophic forgetting) and how I fixed it.
-`PyTorch` `OpenCV` `FastAPI` `Computer Vision`
-
-### 🏢 [PropIntel AI](https://github.com/Janahmedtawfik/propintel-ai)
-Full-stack "AI employee" for real estate research. Upload PDFs and property CSVs, ask a question in plain English, and get a cited report that combines document search (RAG), structured data analysis and web research.
-`React` `TypeScript` `FastAPI` `LangGraph` `RAG`
-
-### 🤖 [Research & Report Agent](https://github.com/Janahmedtawfik/research-report-agent)
-Multi-agent LangGraph system: a Researcher agent searches and reads the web, an Analyst agent writes a fact-checked report, exported as PDF through a Streamlit app.
-`Python` `LangGraph` `Streamlit` `Groq`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,pytorch,tensorflow,sklearn,vite,tailwind,git,github,vscode&theme=dark" alt="Skills" />
+</p>
 
 ---
 
-## 🛠️ Tech I use
-Python · PyTorch · LangGraph · RAG · FastAPI · React · TypeScript · OpenCV · n8n / Make automations
+### About me
 
-## 💼 Experience
-- **AI Generalist Intern**, Interact Health Pro
-- **Freelance Software Developer**, Elite (website + automations)
-- **AI Diploma**, AMIT (ML, DL, RL, NLP, Computer Vision)
+- 🎓 CS/AI student — currently deep in full-stack development and machine learning
+- 🤖 Building AI agents (RAG, LangGraph, multi-agent systems) and computer vision projects (YOLO, deepfake detection, deep learning)
+- 🌱 Sharpening full-stack + ML skills by shipping complete, working products rather than isolated notebooks
+- 💞️ Open to collaborating on AI agent tooling, computer vision, and full-stack AI products
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to be a character designer — now I design systems instead of characters
+- 📫 Reach me at **janahmedtawfik06@gmail.com**
 
 ---
 
-*Fun fact: I used to be a character designer. Now I design systems instead of characters.*
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[PropIntel AI](https://github.com/Janahmedtawfik/propintel-ai)**
+Your AI Employee for Real Estate Research — a full-stack RAG agent (React + FastAPI + LangGraph) that ingests documents and property data, then produces evidence-backed, cited research reports. Real document search, structured data analysis, and live web research, orchestrated end to end.
+
+`TypeScript` `Python` `LangGraph` `FastAPI` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+**[Research & Report Agent](https://github.com/Janahmedtawfik/research-report-agent)**
+A multi-agent LangGraph system: a Researcher agent searches and scrapes the web, an Analyst agent turns the findings into a hallucination-checked report, deployed as a live Streamlit app with PDF export.
+
+`Python` `LangGraph` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Deepfake Detector](https://github.com/Janahmedtawfik/deepfake-detector)**
+A computer vision project for detecting manipulated media.
+
+`Python` `Deep Learning` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+**[YOLO Object Detection](https://github.com/Janahmedtawfik/internintelligence_yolo)**
+Real-time object detection built on the YOLO architecture.
+
+`Python` `YOLO` `Computer Vision`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Reinforcement Learning](https://github.com/Janahmedtawfik/InternIntelligence_RL)**
+An RL project exploring agent training and reward-driven decision-making.
+
+`Python` `Reinforcement Learning`
+
+</td>
+<td width="50%" valign="top">
+
+**[Deep Learning Coursework](https://github.com/Janahmedtawfik/Deep-learning-Course-final-project)**
+Final project applying deep learning fundamentals to a real dataset.
+
+`Python` `Deep Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center"><i>Always building something — check back often.</i></p>
